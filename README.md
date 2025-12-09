@@ -1,8 +1,10 @@
 # WhatsApp Lead Generation Bot
 
-![Интерфейс бота](1.png)
-![Панель управления](2.png)
-![Статистика и аналитика](3.png)
+<p align="center">
+  <img src="1.png" width="300" alt="Интерфейс бота">
+  <img src="2.png" width="300" alt="Панель управления">
+  <img src="3.png" width="300" alt="Статистика и аналитика">
+</p>
 
 ## Автоматизированная система поиска клиентов через WhatsApp
 
